@@ -11,7 +11,7 @@ setInterval(check, 200);
 function check() {
     if(cyclecount == 2) {
         header.innerHTML = "Hello :)"
-        intro.style.top = "-100vh"
+        intro.style.top = "-300vh"
     }
 }
 
